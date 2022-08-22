@@ -86,7 +86,7 @@ KAFKA_LOG_DIRS: /kafka
 
 3. [kafka listeners 和 advertised.listeners 的应用](https://segmentfault.com/a/1190000020715650)
 
-4. [Kafka解析之topic创建(1)] (https://blog.csdn.net/u013256816/article/details/79303825)
+4. [Kafka解析之topic创建(1)](https://blog.csdn.net/u013256816/article/details/79303825)
 
 5. [Kafka 参数解释--min.insync.replicas](https://www.cnblogs.com/juniorMa/articles/14120886.html)
 
