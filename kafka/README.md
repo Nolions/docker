@@ -88,9 +88,9 @@ KAFKA_LOG_DIRS: /kafka
 
 4. [Kafka解析之topic创建(1)] (https://blog.csdn.net/u013256816/article/details/79303825)
 
-5. [Kafka 参数解释--min.insync.replicas] (https://www.cnblogs.com/juniorMa/articles/14120886.html)
+5. [Kafka 参数解释--min.insync.replicas](https://www.cnblogs.com/juniorMa/articles/14120886.html)
 
-6. [Kafka 笔记 01: Replication] (https://fleurer.github.io/2020/03/07/kafka01-replication/)
+6. [Kafka 笔记 01: Replication](https://fleurer.github.io/2020/03/07/kafka01-replication/)
 
 7. [wurstmeister/kafka](https://hub.docker.com/r/wurstmeister/kafka/)
 
